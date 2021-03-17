@@ -1,6 +1,6 @@
 {
 	"name": "yingedu-sachikawa-doc",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "内部用基于showdoc和egg-sachikawa框架的文档生成工具",
 	"license": "MIT",
 	"repository": "985ch/yingedu-sachikawa-doc",
