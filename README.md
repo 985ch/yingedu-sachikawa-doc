@@ -9,6 +9,10 @@ module.exports = {
     homePage: 'https://xxx.com',
     itemID: 1,
   },
+  // 需要生成模型的数据表
+  tables: {
+    mainDB: [ 'vnandapp', 'app', 'vnumber', 'appclass' ],
+  },
   // 数据库配置
   dbConfig: {
     kefuSystem: {
