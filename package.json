@@ -1,6 +1,6 @@
 {
 	"name": "yingedu-sachikawa-doc",
-	"version": "0.0.9",
+	"version": "0.0.10",
 	"description": "内部用基于showdoc和egg-sachikawa框架的文档生成工具",
 	"license": "MIT",
 	"repository": "985ch/yingedu-sachikawa-doc",
@@ -18,8 +18,8 @@
 		"lint": "eslint ."
 	},
 	"dependencies": {
-		"chalk": "^4.1.0",
-		"comment-parser": "^1.1.2",
+		"chalk": "^4.1.2",
+		"comment-parser": "^1.2.4",
 		"egg-sequelize-mg": "^1.2.4",
 		"lodash": "^4.17.21",
 		"node-showdoc": "0.0.2"
